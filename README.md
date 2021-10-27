@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eonkruger
-- 🌱 I’m currently learning selnium automation
+- 🌱 I’m currently learning selenium automation
 - 💞️ I’m looking to collaborate on automation framework, strategies and code!
 - 📫 Email me on eonkruger@gmail.com
 
